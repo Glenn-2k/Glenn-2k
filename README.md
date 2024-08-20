@@ -16,7 +16,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **my Portfolio-1 project in my Frontend developer-studies**
+- 🔭 I’m currently working on **my semester project 2 in my Frontend developer-studies**
 
 - 🌱 I’m currently learning **Frontend development**
 
